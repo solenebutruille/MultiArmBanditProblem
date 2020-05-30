@@ -6,7 +6,9 @@ Every Algorithm is configure to run with parameters given :
 It will then display (depending on the chosen program) :
 - Average reward   OR
 - Percentage Optimal Action
-In function on the number of steps. 
+In function of the number of steps. 
 
 To have the algorithm with 1000 arm, it is possible to change the arm value in the code. 
 It is the first parameter when call to function machine_learning.
+
+To launch the code, in command prompt launch python <file_name>.py
